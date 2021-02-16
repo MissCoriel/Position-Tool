@@ -1,0 +1,6 @@
+C:\Users\missc\source\repos\Position Tool\Position Tool\bin\Debug\Position Tool.dll
+C:\Users\missc\source\repos\Position Tool\Position Tool\bin\Debug\Position Tool.pdb
+C:\Users\missc\source\repos\Position Tool\Position Tool\obj\Debug\Position Tool.csprojAssemblyReference.cache
+C:\Users\missc\source\repos\Position Tool\Position Tool\obj\Debug\Position Tool.csproj.CoreCompileInputs.cache
+C:\Users\missc\source\repos\Position Tool\Position Tool\obj\Debug\Position Tool.dll
+C:\Users\missc\source\repos\Position Tool\Position Tool\obj\Debug\Position Tool.pdb
